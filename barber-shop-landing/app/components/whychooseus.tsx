@@ -24,7 +24,6 @@ const WhyChooseUs = () => {
             </p>
           </div>
 
-          {/* Feature 2 */}
           <div className="flex flex-col items-center">
             <div className="mb-4">
               <span className="inline-flex items-center justify-center w-16 h-16 bg-gray-200 rounded-full">
@@ -38,7 +37,6 @@ const WhyChooseUs = () => {
             </p>
           </div>
 
-          {/* Feature 3 */}
           <div className="flex flex-col items-center">
             <div className="mb-4">
               <span className="inline-flex items-center justify-center w-16 h-16 bg-gray-200 rounded-full">
@@ -79,7 +77,6 @@ const WhyChooseUs = () => {
             <p className="mt-4 text-black font-bold">SAM HOUSTON</p>
           </div>
 
-          {/* Review Right */}
           <div className="flex-1 text-center md:text-right">
             <h4 className="text-3xl text-black font-bold  mb-2">
               TRIPADVISOR

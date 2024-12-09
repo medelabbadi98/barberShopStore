@@ -14,9 +14,7 @@ const AppointmentSection = () => {
         />
       </div>
 
-      {/* Overlay Content */}
       <div className="relative z-10 container mx-auto px-4 py-16 flex flex-wrap">
-        {/* Left Section */}
         <div className="w-full md:w-1/2 text-white space-y-6 p-8 bg-black bg-opacity-50 rounded-lg">
           <h1 className="text-4xl font-bold">MAKE AN APPOINTMENT</h1>
           <p className="text-gray-300">
@@ -42,7 +40,6 @@ const AppointmentSection = () => {
           </div>
         </div>
 
-        {/* Right Section - Contact Form */}
         <div className="w-full md:w-1/2 bg-white p-8 shadow-lg rounded-lg">
           <form className="space-y-4">
             <div>
